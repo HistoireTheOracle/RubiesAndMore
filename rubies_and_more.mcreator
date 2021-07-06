@@ -213,6 +213,33 @@
       "locked_code": true,
       "ids": {},
       "registry_name": "crescent_rose"
+    },
+    {
+      "name": "GemRuby",
+      "type": "tag",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gem_ruby"
+    },
+    {
+      "name": "OreGemRuby",
+      "type": "tag",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_gem_ruby"
+    },
+    {
+      "name": "TagForgeOre",
+      "type": "tag",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tag_forge_ore"
     }
   ],
   "variable_elements": [],
