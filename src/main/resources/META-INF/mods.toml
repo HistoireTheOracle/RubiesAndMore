@@ -3,14 +3,14 @@ loaderVersion="[36,)"
 license="Academic Free License v3.0"
 
 [[mods]]
-modId="rubies_for_dummies"
+modId="rubies_and_more"
 version="1.0.0"
-displayName="Histi's Rubies for Dummies"
+displayName="Histi's Rubies And More"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="owner, MCreator"
+authors="Histi"
 
-[[dependencies.rubies_for_dummies]]
+[[dependencies.rubies_and_more]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.16.5]"

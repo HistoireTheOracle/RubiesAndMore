@@ -1,0 +1,42 @@
+{
+  "group": "rubies_and_more",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "rubies_and_more:ruby"
+    },
+    "1": {
+      "item": "rubies_and_more:ruby"
+    },
+    "2": {
+      "item": "rubies_and_more:ruby"
+    },
+    "3": {
+      "item": "rubies_and_more:ruby"
+    },
+    "4": {
+      "item": "rubies_and_more:ruby"
+    },
+    "5": {
+      "item": "rubies_and_more:ruby"
+    },
+    "6": {
+      "item": "rubies_and_more:ruby"
+    },
+    "7": {
+      "item": "rubies_and_more:ruby"
+    },
+    "8": {
+      "item": "rubies_and_more:ruby"
+    }
+  },
+  "result": {
+    "item": "rubies_and_more:ruby_block",
+    "count": 1
+  }
+}

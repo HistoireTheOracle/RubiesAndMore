@@ -1,0 +1,30 @@
+{
+  "group": "rubies_and_more",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "rubies_and_more:ruby"
+    },
+    "1": {
+      "item": "rubies_and_more:ruby"
+    },
+    "2": {
+      "item": "rubies_and_more:ruby"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "rubies_and_more:ruby_axe",
+    "count": 1
+  }
+}

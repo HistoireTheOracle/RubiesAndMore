@@ -1,0 +1,13 @@
+{
+  "group": "rubies_and_more",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rubies_and_more:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "rubies_and_more:ruby",
+    "count": 9
+  }
+}

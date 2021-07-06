@@ -1,0 +1,273 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block"
+    },
+    {
+      "name": "RubyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_block_recipe"
+    },
+    {
+      "name": "RubyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block_ore_recipe"
+    },
+    {
+      "name": "RubyOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_smelting"
+    },
+    {
+      "name": "RubyPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe"
+    },
+    {
+      "name": "RubyAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe"
+    },
+    {
+      "name": "RubySword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword"
+    },
+    {
+      "name": "RubyShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel"
+    },
+    {
+      "name": "RubyHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe"
+    },
+    {
+      "name": "RubyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe_recipe"
+    },
+    {
+      "name": "RubyAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe_recipe"
+    },
+    {
+      "name": "RubySwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword_recipe"
+    },
+    {
+      "name": "RubyShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel_recipe"
+    },
+    {
+      "name": "RubyHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe_recipe"
+    },
+    {
+      "name": "RubyArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "RubyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_helmet_recipe"
+    },
+    {
+      "name": "RubyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_body_recipe"
+    },
+    {
+      "name": "RubyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_leggings_recipe"
+    },
+    {
+      "name": "RubyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_boots_recipe"
+    },
+    {
+      "name": "CrescentRose",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": false,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "crescent_rose"
+    },
+    {
+      "name": "Testcreativetab",
+      "type": "tab",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "testcreativetab"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.rubies_and_more.ruby_pickaxe": "Ruby Pickaxe",
+      "item.rubies_and_more.ruby_armor_boots": "Ruby Boots",
+      "item.rubies_for_dummies.ruby_shovel": "Ruby Shovel",
+      "item.rubies_and_more.ruby": "Ruby Crystal",
+      "item.rubies_and_more.ruby_armor_leggings": "Ruby Leggings",
+      "item.rubies_for_dummies.crescent_rose": "Crescent Rose",
+      "block.rubies_and_more.ruby_block": "Block of Ruby",
+      "item.rubies_for_dummies.ruby_pickaxe": "Ruby Pickaxe",
+      "item.rubies_for_dummies.ruby_armor_boots": "Ruby Boots",
+      "item.rubies_and_more.ruby_hoe": "Ruby Hoe",
+      "item.rubies_for_dummies.ruby_armor_leggings": "Ruby Leggings",
+      "itemGroup.tabtestcreativetab": "Testcreativetab",
+      "item.rubies_and_more.ruby_armor_helmet": "Ruby Helmet",
+      "item.rubies_for_dummies.ruby": "Ruby Crystal",
+      "block.rubies_and_more.ruby_ore": "Ruby Ore",
+      "item.rubies_and_more.ruby_axe": "Ruby Axe",
+      "item.rubies_for_dummies.ruby_axe": "Ruby Axe",
+      "item.rubies_for_dummies.ruby_sword": "Ruby Sword",
+      "block.rubies_for_dummies.ruby_block": "Block of Ruby",
+      "item.rubies_for_dummies.ruby_armor_chestplate": "Ruby Chestplate",
+      "item.rubies_and_more.ruby_armor_chestplate": "Ruby Chestplate",
+      "item.rubies_for_dummies.ruby_armor_helmet": "Ruby Helmet",
+      "item.rubies_for_dummies.ruby_hoe": "Ruby Hoe",
+      "block.rubies_for_dummies.ruby_ore": "Ruby Ore",
+      "item.rubies_and_more.ruby_sword": "Ruby Sword",
+      "item.rubies_and_more.ruby_shovel": "Ruby Shovel"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "rubies_and_more",
+    "modName": "Histi\u0027s Rubies And More",
+    "version": "1.0.0",
+    "author": "Histi",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.rubiesandmore",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100226215
+}
