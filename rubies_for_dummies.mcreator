@@ -195,6 +195,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ruby_armor_boots_recipe"
+    },
+    {
+      "name": "CrescentRose",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "crescent_rose"
     }
   ],
   "variable_elements": [],
@@ -206,6 +215,7 @@
       "item.rubies_for_dummies.ruby_sword": "Ruby Sword",
       "block.rubies_for_dummies.ruby_block": "Block of Ruby",
       "item.rubies_for_dummies.ruby_armor_chestplate": "Ruby Chestplate",
+      "item.rubies_for_dummies.crescent_rose": "Crescent Rose",
       "item.rubies_for_dummies.ruby_pickaxe": "Ruby Pickaxe",
       "item.rubies_for_dummies.ruby_armor_boots": "Ruby Boots",
       "item.rubies_for_dummies.ruby_armor_leggings": "Ruby Leggings",
