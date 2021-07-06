@@ -1,0 +1,29 @@
+{
+  "group": "rubies_for_dummies",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "rubies_for_dummies:ruby"
+    },
+    "1": {
+      "item": "rubies_for_dummies:ruby"
+    },
+    "2": {
+      "item": "rubies_for_dummies:ruby"
+    },
+    "3": {
+      "item": "rubies_for_dummies:ruby"
+    },
+    "5": {
+      "item": "rubies_for_dummies:ruby"
+    }
+  },
+  "result": {
+    "item": "rubies_for_dummies:ruby_armor_helmet",
+    "count": 1
+  }
+}

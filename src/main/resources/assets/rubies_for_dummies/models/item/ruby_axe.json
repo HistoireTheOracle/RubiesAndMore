@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "rubies_for_dummies:items/ruby_axe"
+  }
+}
