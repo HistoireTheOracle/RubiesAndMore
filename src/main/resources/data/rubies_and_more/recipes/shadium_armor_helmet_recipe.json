@@ -1,0 +1,29 @@
+{
+  "group": "rubies_and_more",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "rubies_and_more:shadium_ingot"
+    },
+    "1": {
+      "item": "rubies_and_more:shadium_ingot"
+    },
+    "2": {
+      "item": "rubies_and_more:shadium_ingot"
+    },
+    "3": {
+      "item": "rubies_and_more:shadium_ingot"
+    },
+    "5": {
+      "item": "rubies_and_more:shadium_ingot"
+    }
+  },
+  "result": {
+    "item": "rubies_and_more:shadium_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "rubies_and_more",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rubies_and_more:shadium_block"
+    }
+  ],
+  "result": {
+    "item": "rubies_and_more:shadium_ingot",
+    "count": 9
+  }
+}
