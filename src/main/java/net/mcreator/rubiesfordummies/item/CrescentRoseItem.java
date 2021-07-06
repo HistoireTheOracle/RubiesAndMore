@@ -6,10 +6,10 @@ import net.minecraftforge.registries.ObjectHolder;
 import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.item.SwordItem;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
 
+import net.mcreator.rubiesfordummies.itemgroup.TestcreativetabItemGroup;
 import net.mcreator.rubiesfordummies.block.RubyBlockBlock;
 import net.mcreator.rubiesfordummies.RubiesForDummiesModElements;
 
@@ -47,7 +47,7 @@ public class CrescentRoseItem extends RubiesForDummiesModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(RubyBlockBlock.block, (int) (1)));
 			}
-		}, 3, -3f, new Item.Properties().group(ItemGroup.COMBAT).isImmuneToFire()) {
+		}, 3, -3f, new Item.Properties().group(TestcreativetabItemGroup.tab).isImmuneToFire()) {
 		}.setRegistryName("crescent_rose"));
 	}
 }
