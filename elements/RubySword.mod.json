@@ -8,7 +8,7 @@
     "name": "Ruby Sword",
     "specialInfo": [],
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:Testcreativetab"
     },
     "toolType": "Sword",
     "harvestLevel": 6,

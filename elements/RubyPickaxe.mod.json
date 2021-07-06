@@ -8,7 +8,7 @@
     "name": "Ruby Pickaxe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Testcreativetab"
     },
     "toolType": "Pickaxe",
     "harvestLevel": 4,

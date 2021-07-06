@@ -8,7 +8,7 @@
     "name": "Ruby Crystal",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:Testcreativetab"
     },
     "stackSize": 64,
     "enchantability": 0,

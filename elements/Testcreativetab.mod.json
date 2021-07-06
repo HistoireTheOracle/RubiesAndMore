@@ -1,0 +1,11 @@
+{
+  "_fv": 21,
+  "_type": "tab",
+  "definition": {
+    "name": "Testcreativetab",
+    "icon": {
+      "value": "CUSTOM:Ruby"
+    },
+    "showSearch": false
+  }
+}

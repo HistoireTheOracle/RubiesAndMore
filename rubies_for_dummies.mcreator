@@ -204,6 +204,15 @@
       "locked_code": true,
       "ids": {},
       "registry_name": "crescent_rose"
+    },
+    {
+      "name": "Testcreativetab",
+      "type": "tab",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "testcreativetab"
     }
   ],
   "variable_elements": [],
@@ -222,6 +231,7 @@
       "item.rubies_for_dummies.ruby_armor_helmet": "Ruby Helmet",
       "block.rubies_for_dummies.ruby_ore": "Ruby Ore",
       "item.rubies_for_dummies.ruby_hoe": "Ruby Hoe",
+      "itemGroup.tabtestcreativetab": "Testcreativetab",
       "item.rubies_for_dummies.ruby": "Ruby Crystal"
     }
   },
