@@ -61,7 +61,7 @@ public class RubyOreBlock extends RubiesForDummiesModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(8.4f, 11.394530347449107f).setLightLevel(s -> 0)
-					.harvestLevel(6).harvestTool(ToolType.PICKAXE).setRequiresTool());
+					.harvestLevel(2).harvestTool(ToolType.PICKAXE).setRequiresTool());
 			setRegistryName("ruby_ore");
 		}
 
