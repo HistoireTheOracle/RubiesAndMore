@@ -1,7 +1,7 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "rubies_for_dummies:items/crescent_rose"
+    "layer0": "rubies_and_more:items/crescent_rose"
   },
 	"display": {
         "ground": {

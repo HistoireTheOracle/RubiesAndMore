@@ -197,15 +197,6 @@
       "registry_name": "ruby_armor_boots_recipe"
     },
     {
-      "name": "CrescentRose",
-      "type": "tool",
-      "sortid": 22,
-      "compiles": false,
-      "locked_code": true,
-      "ids": {},
-      "registry_name": "crescent_rose"
-    },
-    {
       "name": "Testcreativetab",
       "type": "tab",
       "sortid": 23,
@@ -213,6 +204,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "testcreativetab"
+    },
+    {
+      "name": "CrescentRose",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "crescent_rose"
     }
   ],
   "variable_elements": [],
@@ -233,6 +233,7 @@
       "itemGroup.tabtestcreativetab": "Testcreativetab",
       "item.rubies_and_more.ruby_armor_helmet": "Ruby Helmet",
       "item.rubies_for_dummies.ruby": "Ruby Crystal",
+      "item.rubies_and_more.crescent_rose": "Crescent Rose",
       "block.rubies_and_more.ruby_ore": "Ruby Ore",
       "item.rubies_and_more.ruby_axe": "Ruby Axe",
       "item.rubies_for_dummies.ruby_axe": "Ruby Axe",
