@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "rubies_and_more:items/shadium_axe"
-  }
-}
